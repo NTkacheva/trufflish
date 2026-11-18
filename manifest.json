@@ -1,10 +1,10 @@
 {
- "name": "English Steps: английский шаг за шагом",
- "short_name": "English Steps",
+ "name": "Trufflish: английский со вкусом шоколада",
+ "short_name": "Trufflish",
  "start_url": "./index.html",
  "display": "standalone",
- "background_color": "#f5f3ee",
- "theme_color": "#1f5fae",
+ "background_color": "#f6f0e9",
+ "theme_color": "#6b3f27",
  "lang": "ru",
  "icons": [
   {
